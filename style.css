@@ -1,0 +1,61 @@
+#table{
+    background-color: rgb(53, 140, 146);
+    height: 100%;
+}
+
+
+
+
+
+#header{
+    padding: 60px 0px 40px 0;
+    background-color: #333333;
+    text-align: center;
+}
+
+#header h1{
+    letter-spacing: 0.1em;
+    font-size: 44px;
+    color: #ffffff;
+}
+
+
+
+#addContact{
+    background-color: rgb(53, 140, 146);
+    height: 50px;
+    width: 50%;
+    background-color: #333333;
+    color: #ffffff;
+}
+ #refresh{
+    background-color: rgb(53, 140, 146);
+    height: 50px;
+    width: 50%;
+    float: right;
+    background-color: #333333;
+    color: #ffffff;
+ }
+
+ #editForm{
+    background-color: rgb(53, 140, 146);
+    height: 100%;
+    width: 100%;
+    color: #ffffff;
+    border-style:double;
+    
+ }
+
+ #homeLink{
+    background-color: rgb(53, 140, 146);
+    height: 50px;
+    width: 100%;
+    background-color: #333333;
+    color: #ffffff;
+ }
+
+
+
+
+
+
